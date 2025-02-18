@@ -1,0 +1,43 @@
+#include <string>
+#include <vector>
+#include <map>
+#include <algorithm>
+
+using namespace std;
+
+int solution(int a, int b, int c, int d) {
+    vector<int> dice = {a, b, c, d};
+    map<int, int> freq;
+    
+    for (int num : dice) {
+        freq[num]++;
+    }
+
+    if (freq.size() == 1) {  
+
+        return 1111 * a;
+    } else if (freq.size() == 2) {  
+
+        auto it = freq.begin();
+        int p = it->first, p_count = it->second;
+        int q = next(it)->first, q_count = next(it)->second;
+        
+        if (p_count == 3) {  
+            return (10 * p + q) * (10 * p + q);
+        } else if (q_count == 3) {  
+            return (10 * q + p) * (10 * q + p);
+        } else {
+            return (p + q) * abs(p - q);
+        }
+    } else if (freq.size() == 3) {
+        int p = -1, q = -1, r = -1;
+        for (auto& [key, value] : freq) {
+            if (value == 2) p = key;
+            else if (q == -1) q = key;
+            else r = key;
+        }
+        return q * r;
+    } else {
+        return *min_element(dice.begin(), dice.end());
+    }
+}
