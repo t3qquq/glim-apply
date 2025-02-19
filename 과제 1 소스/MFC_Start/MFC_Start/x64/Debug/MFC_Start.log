@@ -1,0 +1,303 @@
+﻿  MFC_StartDlg.cpp
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(19,7): error C2011: 'CMFCStartDlg': 'class' 형식 재정의
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(47,1): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(47,1): error C2270: 'GetMessageMap': 비멤버 함수에 한정자를 사용할 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(47,1): error C3861: 'GetThisMessageMap': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(48,5): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(48,5): error C2065: 'OnPaint': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(49,5): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(49,5): error C2065: 'OnLButtonDown': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(50,5): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(50,5): error C2065: 'OnMouseMove': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(51,5): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(51,5): error C2065: 'OnLButtonUp': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(52,5): error C2065: 'IDC_BUTTON_RESET': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(52,5): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(52,5): error C2065: 'OnReset': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(53,5): error C2065: 'IDC_BUTTON_RANDOM': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(53,5): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(53,5): error C2065: 'OnRandomMove': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(47,1): error C2737: '_messageEntries': const 개체를 초기화해야 합니다
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(54,1): error C2248: 'CDialogEx::GetThisMessageMap': protected 멤버('CDialogEx' 클래스에서 선언)에 액세스할 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\atlmfc\include\afxdialogex.h(90,2):
+      'CDialogEx::GetThisMessageMap' 선언을 참조하십시오.
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\atlmfc\include\afxdialogex.h(31,7):
+      'CDialogEx' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(54,1): error C2737: 'messageMap': const 개체를 초기화해야 합니다
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(56,15): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(56,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(58,1): error C2550: '{ctor}': 생성자 이니셜라이저 목록은 생성자 정의에만 사용할 수 있습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(59,1): warning C4508: '{ctor}': 함수는 값을 반환해야 하므로 'void' 반환 형식으로 간주됩니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(61,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(63,16): error C2248: 'CWnd::DoDataExchange': protected 멤버('CWnd' 클래스에서 선언)에 액세스할 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\atlmfc\include\afxwin.h(2928,15):
+      'CWnd::DoDataExchange' 선언을 참조하십시오.
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\atlmfc\include\afxwin.h(2190,7):
+      'CWnd' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(63,16): error C2352: 'CWnd::DoDataExchange': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\atlmfc\include\afxwin.h(2928,15):
+      'CWnd::DoDataExchange' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(66,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(68,16): error C2352: 'CDialog::OnInitDialog': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\atlmfc\include\afxwin.h(3378,15):
+      'CDialog::OnInitDialog' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(72,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(74,17): error C2355: 'this': 비정적 멤버 함수 또는 비정적 데이터 멤버 이니셜라이저 안에서만 참조할 수 있습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(74,16): error C2512: 'CPaintDC::CPaintDC': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(74,16):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(75,27): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(75,22): error C2530: 'pd': 참조를 초기화해야 합니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(75,22): error C3531: 'pd': 형식에 'auto'이(가) 포함된 기호에는 이니셜라이저가 있어야 합니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(75,25): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(75,38): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(76,9): error C3861: 'DrawCircle': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(78,9): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(79,9): error C3861: 'DrawMainCircle': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(83,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(85,9): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(86,9): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(89,32): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(90,21): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(90,67): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(91,17): error C2065: 'isDragging': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(92,17): error C2065: 'selectedPointIndex': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(97,5): error C3861: 'Invalidate': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(100,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(102,9): error C2065: 'isDragging': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(102,23): error C2065: 'selectedPointIndex': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(103,9): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(103,21): error C2065: 'selectedPointIndex': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(104,9): error C3861: 'Invalidate': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(108,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(110,5): error C2065: 'isDragging': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(111,5): error C2065: 'selectedPointIndex': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(114,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(116,5): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(117,5): error C3861: 'Invalidate': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(120,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(122,32): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(122,32): error C2065: 'MoveRandomly': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(122,46): error C2355: 'this': 비정적 멤버 함수 또는 비정적 데이터 멤버 이니셜라이저 안에서만 참조할 수 있습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(125,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(132,25): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(132,20): error C2530: 'pd': 참조를 초기화해야 합니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(132,20): error C3531: 'pd': 형식에 'auto'이(가) 포함된 기호에는 이니셜라이저가 있어야 합니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(132,23): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(132,36): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(136,9): error C3861: 'Invalidate': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(141,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(149,20): error C2027: 정의되지 않은 형식 'CMFCStartDlg'을(를) 사용했습니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+      E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.h(9,7):
+      'CMFCStartDlg' 선언을 참조하십시오.
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(151,20): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(151,45): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(151,70): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(152,10): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(152,35): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(152,60): error C2065: 'clickPoints': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
+E:\t3qquq\Documents\workbench\MFC\MFC_Start\MFC_Start\MFC_StartDlg.cpp(153,28): error C2065: 'radius': 선언되지 않은 식별자입니다.
+  (소스 파일 '/MFC_StartDlg.cpp'을(를) 컴파일하는 중)
+  
